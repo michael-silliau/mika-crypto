@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mika-crypto/static/css/main.5fe3de59.css",
+    "main.js": "/mika-crypto/static/js/main.20beff91.js",
+    "static/media/wave.svg": "/mika-crypto/static/media/wave.5002a8c0fe2c7c5defc6.svg",
+    "index.html": "/mika-crypto/index.html",
+    "main.5fe3de59.css.map": "/mika-crypto/static/css/main.5fe3de59.css.map",
+    "main.20beff91.js.map": "/mika-crypto/static/js/main.20beff91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fe3de59.css",
+    "static/js/main.20beff91.js"
+  ]
+}
